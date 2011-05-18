@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    city_hash (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rubyzip (0.9.4)
+    test-unit (2.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  city_hash!
+  rubyzip
+  test-unit
