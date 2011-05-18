@@ -6,11 +6,11 @@ This is an implementation of Google's CityHash for Ruby. It supports both 64-bit
 
 Installing CityHash is as simple as
 
-	gem install CityHash
+	gem install city_hash
 
 ## Using CityHash
 
-	require 'CityHash'
+	require 'city_hash'
 
 	# Calculate a 64-bit hash
 	CityHash.hash64('New York City')
